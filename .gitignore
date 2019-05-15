@@ -1,0 +1,5 @@
+/client/node_modules/*
+/client/src/modules/server.js
+/server/storage/app/public/*
+/server/database/migrations/*
+/server/vendor/*

@@ -1,0 +1,21 @@
+.navigation > ul > li.right.li_search {
+  padding-top: 8px;
+}
+
+.navigation > ul li.right.li_search .search {
+  position: relative;
+}
+
+.navigation > ul li.right.li_search input {
+  width: 210px;
+  height: 30px;
+  border-radius: 15px;
+  background: #fafafa;
+}
+
+.navigation > ul li.right.li_search i {
+  position: absolute;
+  right: 10px;
+  top: 6px;
+  color: #aaa;
+}
